@@ -1,5 +1,5 @@
 # react-Native-Networking
-使用php模拟后台接口，通过网络请求实现登录注册功能。
+使用php模拟后台接口，通过网络请求实现登录注册功能。  
 ![示例](https://github.com/zuoyoulian/react-Native-Networking/blob/master/Images/示例.png?raw=true)
 ## TextInputLT.js
 自定义的输入框组件。组件的结构是前面一个label标签标记是用户名输入还是密码输入，后面是一个输入框，用来输入用户名或密码。
